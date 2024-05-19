@@ -6,7 +6,7 @@ import net.dv8tion.jda.api.requests.GatewayIntent;
 
 public class DiscordBot {
     public static void main(String[] args) {
-        String token = "MTIzMTU5OTUzODI0NzMwNzM3Ng.G1FJGv.vMpXK8d3q59qn-vfKJp63XYfY_leTGLNxaXzwQ";
+        String token = "";
         JDA jda = JDABuilder.createDefault(token)
                 .enableIntents(GatewayIntent.MESSAGE_CONTENT)
                 .addEventListeners(new HelpCommand(), new StartQuiz(), new QuizManager(), new Quickfire())
