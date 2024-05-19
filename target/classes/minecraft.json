@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is the rarest ore in Minecraft?",
+    "answer": 0,
+    "choices": [
+      "Emerald Ore",
+      "Diamond Ore",
+      "Nether Quartz Ore"
+    ],
+    "time": 20,
+    "explanation": "Emerald Ore is the rarest ore in Minecraft, found only in mountain biomes and in small quantities."
+  },
+  {
+    "question": "Which mob drops the Totem of Undying?",
+    "answer": 1,
+    "choices": [
+      "Witch",
+      "Evoker",
+      "Vindicator"
+    ],
+    "time": 20,
+    "explanation": "The Evoker drops the Totem of Undying when killed."
+  },
+  {
+    "question": "What item is used to respawn the Ender Dragon?",
+    "answer": 1,
+    "choices": [
+      "Dragon Egg",
+      "End Crystal",
+      "Ghast Tear"
+    ],
+    "time": 20,
+    "explanation": "End Crystals are used to respawn the Ender Dragon."
+  },
+  {
+    "question": "What is the maximum level of the Fortune enchantment?",
+    "answer": 1,
+    "choices": [
+      "II",
+      "III",
+      "IV"
+    ],
+    "time": 20,
+    "explanation": "The maximum level of the Fortune enchantment is III."
+  },
+  {
+    "question": "What structure generates in the Nether and contains Blaze spawners?",
+    "answer": 0,
+    "choices": [
+      "Nether Fortress",
+      "Bastion Remnant",
+      "Ruined Portal"
+    ],
+    "time": 20,
+    "explanation": "The Nether Fortress is the structure in the Nether that contains Blaze spawners."
+  },
+  {
+    "question": "Which biome can End Cities be found in?",
+    "answer": 2,
+    "choices": [
+      "End Barrens",
+      "End Midlands",
+      "End Highlands"
+    ],
+    "time": 20,
+    "explanation": "End Cities are found in the End Highlands biome."
+  },
+  {
+    "question": "What do Piglins become when they enter the Overworld?",
+    "answer": 2,
+    "choices": [
+      "Stray",
+      "Husk",
+      "Zombified Piglins"
+    ],
+    "time": 20,
+    "explanation": "Piglins become Zombified Piglins when they enter the Overworld."
+  },
+  {
+    "question": "What material is needed to craft a Beacon?",
+    "answer": 1,
+    "choices": [
+      "Nether Star",
+      "Obsidian",
+      "Prismarine"
+    ],
+    "time": 20,
+    "explanation": "Obsidian is needed along with a Nether Star and glass to craft a Beacon."
+  },
+  {
+    "question": "What is the name of the dimension where the Wither is most commonly fought?",
+    "answer": 1,
+    "choices": [
+      "Overworld",
+      "Nether",
+      "The End"
+    ],
+    "time": 20,
+    "explanation": "The Wither is most commonly fought in the Nether."
+  },
+  {
+    "question": "What enchantment is exclusive to boots?",
+    "answer": 0,
+    "choices": [
+      "Frost Walker",
+      "Aqua Affinity",
+      "Infinity"
+    ],
+    "time": 20,
+    "explanation": "Frost Walker is an enchantment exclusive to boots."
+  },
+  {
+    "question": "Which mob is attracted to turtles' eggs?",
+    "answer": 1,
+    "choices": [
+      "Enderman",
+      "Zombie",
+      "Spider"
+    ],
+    "time": 20,
+    "explanation": "Zombies are attracted to turtles' eggs."
+  },
+  {
+    "question": "How many hearts of health does the Ender Dragon have?",
+    "answer": 2,
+    "choices": [
+      "100",
+      "150",
+      "200"
+    ],
+    "time": 20,
+    "explanation": "The Ender Dragon has 200 hearts of health."
+  },
+  {
+    "question": "What ingredient is used to make Fire Resistance potions?",
+    "answer": 0,
+    "choices": [
+      "Magma Cream",
+      "Blaze Powder",
+      "Ghast Tear"
+    ],
+    "time": 20,
+    "explanation": "Magma Cream is used to make Fire Resistance potions."
+  },
+  {
+    "question": "What is the name of the effect that gives you the ability to see in the dark?",
+    "answer": 1,
+    "choices": [
+      "Nightshade",
+      "Night Vision",
+      "Blindness"
+    ],
+    "time": 20,
+    "explanation": "Night Vision is the effect that allows you to see in the dark."
+  },
+  {
+    "question": "How many bookshelves are required to reach level 30 enchantments?",
+    "answer": 2,
+    "choices": [
+      "12",
+      "15",
+      "15"
+    ],
+    "time": 20,
+    "explanation": "Fifteen bookshelves are required to reach level 30 enchantments."
+  },
+  {
+    "question": "Which block cannot be pushed by pistons?",
+    "answer": 0,
+    "choices": [
+      "Obsidian",
+      "Iron Block",
+      "Diamond Block"
+    ],
+    "time": 20,
+    "explanation": "Obsidian cannot be pushed by pistons."
+  },
+  {
+    "question": "What is the rarest biome in Minecraft?",
+    "answer": 1,
+    "choices": [
+      "Mushroom Fields",
+      "Modified Jungle Edge",
+      "Badlands"
+    ],
+    "time": 20,
+    "explanation": "The Modified Jungle Edge is the rarest biome in Minecraft."
+  },
+  {
+    "question": "How many slots are in a double chest?",
+    "answer": 2,
+    "choices": [
+      "54",
+      "45",
+      "54"
+    ],
+    "time": 20,
+    "explanation": "A double chest has 54 slots."
+  },
+  {
+    "question": "Which item can be used to breathe underwater?",
+    "answer": 1,
+    "choices": [
+      "Lily Pad",
+      "Turtle Shell",
+      "Ender Pearl"
+    ],
+    "time": 20,
+    "explanation": "A Turtle Shell can be used to breathe underwater."
+  },
+  {
+    "question": "What effect does a Conduit give when activated?",
+    "answer": 0,
+    "choices": [
+      "Conduit Power",
+      "Water Breathing",
+      "Speed"
+    ],
+    "time": 20,
+    "explanation": "A Conduit gives the Conduit Power effect when activated."
+  },
+  {
+    "question": "Which villager profession buys rotten flesh?",
+    "answer": 1,
+    "choices": [
+      "Farmer",
+      "Cleric",
+      "Librarian"
+    ],
+    "time": 20,
+    "explanation": "Clerics buy rotten flesh."
+  },
+  {
+    "question": "What do you use to mine ancient debris?",
+    "answer": 2,
+    "choices": [
+      "Iron Pickaxe",
+      "Gold Pickaxe",
+      "Diamond Pickaxe"
+    ],
+    "time": 20,
+    "explanation": "A Diamond Pickaxe is required to mine ancient debris."
+  },
+  {
+    "question": "How many blocks high is a full beacon base?",
+    "answer": 0,
+    "choices": [
+      "4",
+      "5",
+      "6"
+    ],
+    "time": 20,
+    "explanation": "A full beacon base is 4 blocks high."
+  },
+  {
+    "question": "Which mob can drop a music disc when killed by a skeleton?",
+    "answer": 0,
+    "choices": [
+      "Creeper",
+      "Zombie",
+      "Enderman"
+    ],
+    "time": 20,
+    "explanation": "A Creeper can drop a music disc when killed by a skeleton."
+  },
+  {
+    "question": "What is required to cure a Zombie Villager?",
+    "answer": 2,
+    "choices": [
+      "Golden Apple",
+      "Potion of Healing",
+      "Potion of Weakness and Golden Apple"
+    ],
+    "time": 20,
+    "explanation": "A Potion of Weakness and a Golden Apple are required to cure a Zombie Villager."
+  },
+  {
+    "question": "What is the primary use of Lapis Lazuli?",
+    "answer": 0,
+    "choices": [
+      "Enchanting",
+      "Brewing",
+      "Crafting"
+    ],
+    "time": 20,
+    "explanation": "Lapis Lazuli is primarily used for enchanting."
+  },
+  {
+    "question": "Which tool can be used to harvest cobwebs?",
+    "answer": 1,
+    "choices": [
+      "Axe",
+      "Shears",
+      "Sword"
+    ],
+    "time": 20,
+    "explanation": "Shears are used to harvest cobwebs."
+  },
+  {
+    "question": "What type of golem can be built to defend villages?",
+    "answer": 2,
+    "choices": [
+      "Snow Golem",
+      "Wood Golem",
+      "Iron Golem"
+    ],
+    "time": 20,
+    "explanation": "Iron Golems can be built to defend villages."
+  },
+  {
+    "question": "What effect does eating a Pufferfish give?",
+    "answer": 0,
+    "choices": [
+      "Nausea",
+      "Hunger",
+      "Speed"
+    ],
+    "time": 20,
+    "explanation": "Eating a Pufferfish gives the Nausea effect."
+  },
+  {
+    "question": "How many blocks can a piston push?",
+    "answer": 1,
+    "choices": [
+      "10",
+      "12",
+      "14"
+    ],
+    "time": 20,
+    "explanation": "A piston can push up to 12 blocks."
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Which country has a flag with a red circle in the center of a white background?",
+    "answer": 0,
+    "choices": [
+      "Japan",
+      "Bangladesh",
+      "Greenland"
+    ],
+    "time": 20,
+    "explanation": "The Japanese flag, also known as the Nisshoki, features a red circle representing the sun in the center of a white background."
+  },
+  {
+    "question": "What are the colors of the French flag from left to right?",
+    "answer": 2,
+    "choices": [
+      "Blue, Red, White",
+      "Red, White, Blue",
+      "Blue, White, Red"
+    ],
+    "time": 20,
+    "explanation": "The French flag, known as the Tricolore, consists of three vertical stripes: blue on the hoist side, white in the middle, and red on the fly side."
+  },
+  {
+    "question": "Which country’s flag has a maple leaf in the center?",
+    "answer": 1,
+    "choices": [
+      "Australia",
+      "Canada",
+      "New Zealand"
+    ],
+    "time": 20,
+    "explanation": "The flag of Canada, often referred to as the Maple Leaf, features a red maple leaf in the center with red borders on the left and right sides."
+  },
+  {
+    "question": "Which country has a flag featuring a red cross on a white background?",
+    "answer": 0,
+    "choices": [
+      "Switzerland",
+      "England",
+      "Denmark"
+    ],
+    "time": 20,
+    "explanation": "The Swiss flag features a white cross in the center of a red background. It is one of the few national flags that are square."
+  },
+  {
+    "question": "What symbol is featured on the flag of South Korea?",
+    "answer": 1,
+    "choices": [
+      "Dragon",
+      "Yin-Yang",
+      "Lotus"
+    ],
+    "time": 20,
+    "explanation": "The flag of South Korea features a yin-yang symbol in the center, representing balance. It is surrounded by four trigrams from the I Ching."
+  },
+  {
+    "question": "Which country has a flag that is a solid green color?",
+    "answer": 2,
+    "choices": [
+      "Italy",
+      "Nigeria",
+      "Libya"
+    ],
+    "time": 20,
+    "explanation": "The flag of Libya from 1977 to 2011 was solid green, representing Islam, which is the country's main religion."
+  },
+  {
+    "question": "Which country has a flag with a blue triangle on the left and red and white stripes?",
+    "answer": 0,
+    "choices": [
+      "Cuba",
+      "Puerto Rico",
+      "Liberia"
+    ],
+    "time": 20,
+    "explanation": "The flag of Cuba features five alternating stripes of blue and white, with a red triangle at the hoist containing a white star."
+  },
+  {
+    "question": "What are the colors of the German flag from top to bottom?",
+    "answer": 1,
+    "choices": [
+      "Red, Black, Yellow",
+      "Black, Red, Yellow",
+      "Yellow, Black, Red"
+    ],
+    "time": 20,
+    "explanation": "The German flag consists of three horizontal stripes: black at the top, red in the middle, and yellow (or gold) at the bottom."
+  },
+  {
+    "question": "Which African country has a flag with red, blue, green, and yellow?",
+    "answer": 2,
+    "choices": [
+      "South Africa",
+      "Kenya",
+      "Ethiopia"
+    ],
+    "time": 20,
+    "explanation": "The flag of Ethiopia consists of horizontal tricolor stripes of green, yellow, and red with a blue circle and yellow star in the center."
+  },
+  {
+    "question": "Which Scandinavian country has a flag with a blue cross on a yellow background?",
+    "answer": 0,
+    "choices": [
+      "Sweden",
+      "Norway",
+      "Finland"
+    ],
+    "time": 20,
+    "explanation": "The flag of Sweden features a blue field with a yellow Scandinavian cross that extends to the edges of the flag."
+  },
+  {
+    "question": "Which country has a flag with a crescent moon and a star?",
+    "answer": 1,
+    "choices": [
+      "Malaysia",
+      "Turkey",
+      "Pakistan"
+    ],
+    "time": 20,
+    "explanation": "The flag of Turkey features a white star and crescent on a red background, which are symbols of Islam."
+  },
+  {
+    "question": "What is the main color of the flag of Italy?",
+    "answer": 2,
+    "choices": [
+      "Blue",
+      "Red",
+      "Green"
+    ],
+    "time": 20,
+    "explanation": "The flag of Italy is a tricolor featuring three vertical stripes of green, white, and red."
+  },
+  {
+    "question": "Which country’s flag has a red and white checkered pattern?",
+    "answer": 0,
+    "choices": [
+      "Croatia",
+      "Poland",
+      "Austria"
+    ],
+    "time": 20,
+    "explanation": "The flag of Croatia features a checkerboard pattern, which is part of the country's coat of arms located in the center of the flag."
+  },
+  {
+    "question": "What is the predominant color of the flag of Brazil?",
+    "answer": 1,
+    "choices": [
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "time": 20,
+    "explanation": "The flag of Brazil has a green field with a large yellow diamond in the center, inside of which is a blue globe with 27 white stars and a white banner."
+  },
+  {
+    "question": "Which country’s flag is known as the 'Union Jack'?",
+    "answer": 2,
+    "choices": [
+      "Australia",
+      "New Zealand",
+      "United Kingdom"
+    ],
+    "time": 20,
+    "explanation": "The Union Jack is the national flag of the United Kingdom, incorporating elements of three older national flags: the crosses of St George, St Andrew, and St Patrick."
+  },
+  {
+    "question": "Which country has a flag with a red dragon on it?",
+    "answer": 0,
+    "choices": [
+      "Wales",
+      "Bhutan",
+      "China"
+    ],
+    "time": 20,
+    "explanation": "The flag of Wales features a red dragon passant on a green and white field, symbolizing the nation's Celtic heritage."
+  },
+  {
+    "question": "What symbol is in the center of the flag of India?",
+    "answer": 1,
+    "choices": [
+      "Lotus",
+      "Ashoka Chakra",
+      "Tiger"
+    ],
+    "time": 20,
+    "explanation": "The flag of India features the Ashoka Chakra, a 24-spoke wheel in navy blue at its center, representing the eternal wheel of law."
+  },
+  {
+    "question": "Which country’s flag has a red circle on a green background?",
+    "answer": 2,
+    "choices": [
+      "Japan",
+      "Palau",
+      "Bangladesh"
+    ],
+    "time": 20,
+    "explanation": "The flag of Bangladesh features a red circle slightly off-center on a green background, symbolizing the blood of those who died for independence and the greenery of the land."
+  },
+  {
+    "question": "What is the color of the star on the flag of Vietnam?",
+    "answer": 0,
+    "choices": [
+      "Yellow",
+      "Red",
+      "White"
+    ],
+    "time": 20,
+    "explanation": "The flag of Vietnam features a yellow star in the center of a red field, symbolizing the five main classes in Vietnamese society."
+  },
+  {
+    "question": "Which country has a flag with three vertical stripes of blue, yellow, and red?",
+    "answer": 1,
+    "choices": [
+      "Belgium",
+      "Romania",
+      "Chad"
+    ],
+    "time": 20,
+    "explanation": "The flag of Romania consists of three vertical stripes of blue, yellow, and red, from hoist to fly."
+  },
+  {
+    "question": "Which country’s flag has a blue field with a white star in the center?",
+    "answer": 2,
+    "choices": [
+      "Somalia",
+      "Sierra Leone",
+      "Somalia"
+    ],
+    "time": 20,
+    "explanation": "The flag of Somalia features a blue field with a white five-pointed star in the center, symbolizing unity and the sky."
+  },
+  {
+    "question": "Which country has a flag with a red, white, and blue horizontal tricolor with a blue triangle at the hoist?",
+    "answer": 0,
+    "choices": [
+      "Czech Republic",
+      "Philippines",
+      "Netherlands"
+    ],
+    "time": 20,
+    "explanation": "The flag of the Czech Republic features two equal horizontal bands of white and red with a blue isosceles triangle based on the hoist side."
+  },
+  {
+    "question": "Which country’s flag features the Union Jack in the top left corner?",
+    "answer": 1,
+    "choices": [
+      "United Kingdom",
+      "Australia",
+      "Canada"
+    ],
+    "time": 20,
+    "explanation": "The flag of Australia features the Union Jack in the top left corner, symbolizing its historical ties to the United Kingdom."
+  },
+  {
+    "question": "What colors make up the flag of Italy?",
+    "answer": 2,
+    "choices": [
+      "Red, White, Blue",
+      "Black, Red, Yellow",
+      "Green, White, Red"
+    ],
+    "time": 20,
+    "explanation": "The flag of Italy consists of three vertical stripes of green, white, and red, from hoist to fly."
+  },
+  {
+    "question": "Which Middle Eastern country has a flag with a green field and a white sword?",
+    "answer": 0,
+    "choices": [
+      "Saudi Arabia",
+      "Oman",
+      "Iran"
+    ],
+    "time": 20,
+    "explanation": "The flag of Saudi Arabia features a green field with white Arabic inscription above a horizontal white sword, symbolizing Islam and justice."
+  },
+  {
+    "question": "Which country’s flag has a yellow star in the center of a red background?",
+    "answer": 1,
+    "choices": [
+      "China",
+      "Vietnam",
+      "Macedonia"
+    ],
+    "time": 20,
+    "explanation": "The flag of Vietnam features a large yellow star in the center of a red field, symbolizing the country's communist ideals."
+  },
+  {
+    "question": "What is the design on the flag of Switzerland?",
+    "answer": 2,
+    "choices": [
+      "Red cross on white background",
+      "White cross on red background",
+      "Red cross on white background"
+    ],
+    "time": 20,
+    "explanation": "The flag of Switzerland consists of a white cross on a red background, symbolizing freedom, honor, and loyalty."
+  },
+  {
+    "question": "Which country’s flag is a single solid color?",
+    "answer": 0,
+    "choices": [
+      "Libya",
+      "France",
+      "Russia"
+    ],
+    "time": 20,
+    "explanation": "Libya's flag from 1977 to 2011 was a single solid green color, representing Islam, the country's predominant religion."
+  },
+  {
+    "question": "Which country’s flag is known as the 'Stars and Stripes'?",
+    "answer": 1,
+    "choices": [
+      "United Kingdom",
+      "United States",
+      "Australia"
+    ],
+    "time": 20,
+    "explanation": "The flag of the United States is known as the 'Stars and Stripes' and features 13 horizontal stripes and 50 stars."
+  },
+  {
+    "question": "Which country’s flag has two vertical blue stripes and a white stripe with a coat of arms in the center?",
+    "answer": 2,
+    "choices": [
+      "Guatemala",
+      "El Salvador",
+      "Nicaragua"
+    ],
+    "time": 20,
+    "explanation": "The flag of Nicaragua features two vertical blue stripes and a white stripe with the national coat of arms in the center."
+  }
+]
