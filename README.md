@@ -4,3 +4,4 @@
 # 1. Ielikt tokenu mainīgajā "token" klasē "DiscordBot"
 # 2. Palaist funkciju "main" no klases "DiscordBot"
 # Ja bots skaita sekundes uz atpakaļu tad tā nav bota vaina, tā ir discorda
+# Komandas ir ar /
